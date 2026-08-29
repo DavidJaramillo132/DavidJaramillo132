@@ -21,7 +21,7 @@ Soy ingeniero de software enfocado en aplicaciones web modernas con automatizaci
 | 2024 | Universidad Python - Cero a Experto | Udemy | 114 h |
 | 2024 | Universidad JavaScript - Cero a Experto | Udemy | 45 h |
 | 2025 | Universidad Angular - Cero a Experto | Udemy | 56 h |
-| 2025 | Inglés B1+ | The Point | Nivel B1 |
+| 2025 | Inglés B2 | The Point | Nivel B2 |
 | 2025 | MasterClass en Inteligencia Artificial | Udemy | 18 h |
 | 2025 | Introducción a la Ciencia de Datos | Santander | 6 h |
 | 2025 | Gestión de Proyectos y Fundamentos de Metodología Agile | Santander | 8 h |
